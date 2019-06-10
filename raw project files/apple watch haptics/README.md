@@ -1,1 +1,1 @@
-## Unity project of many scenes
+## Unity project of many sub-projects
